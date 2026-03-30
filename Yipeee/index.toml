@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "039336d7458d57f9eed8e8ce7ed8efd7d27f6801b0deffe8102e7883034eabfc"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
@@ -475,6 +475,11 @@ hash = "c1758534d939476190d72d9ddc904edbeb71824d4d7cd57d482a64c47a92ac5a"
 [[files]]
 file = "mods/paws-at-you.pw.toml"
 hash = "2d37965ad01ac27699c2f541d3c59224814f569f7f049196dd54dae036c3ae6f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
