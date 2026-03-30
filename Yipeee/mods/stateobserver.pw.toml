@@ -1,0 +1,13 @@
+name = "StateObserver"
+filename = "stateobserver-fabric-1.21.1-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D1lhcTKz/versions/7lfdbUrN/stateobserver-fabric-1.21.1-1.6.4.jar"
+hash-format = "sha512"
+hash = "17505ef008098f68dd8bcbb3ba7305854884a34c5595f8bed1d39dc89c99a07048d172946c76572c8f2c8f5a7d262abf7b46576988348c49088f393f1f144fe9"
+
+[update]
+[update.modrinth]
+mod-id = "D1lhcTKz"
+version = "7lfdbUrN"
