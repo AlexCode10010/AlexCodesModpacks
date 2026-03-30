@@ -1,0 +1,13 @@
+name = "Ghosts"
+filename = "ghosts-fabric-1.21.1-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f9a946b0a8125fe6bf1c9acbe41c89e513d52fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7725627
+project-id = 602665

@@ -1,0 +1,13 @@
+name = "Companions!"
+filename = "companions-fabric-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6e470ce5362ddca6fd13afae930fd74627a93c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7558670
+project-id = 1300341

@@ -1,0 +1,13 @@
+name = "Hexalia"
+filename = "hexalia-1.2.82-1.21.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef8350552248ed9bdf2ee52a3cfe8e2151083a51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7240542
+project-id = 962878

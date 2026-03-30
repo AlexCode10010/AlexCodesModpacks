@@ -1,0 +1,13 @@
+name = "Trickster"
+filename = "trickster-2.0.0-beta.35.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b79ad816d396c3ccc7c219f23f89f851181f5542"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7776022
+project-id = 1137971

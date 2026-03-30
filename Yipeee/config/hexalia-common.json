@@ -1,0 +1,28 @@
+{
+  "functional_blocks": {
+    "censerEffectRadius": 16,
+    "censerEffectDuration": 7200,
+    "dreamcatcherRadius": 16,
+    "phantomIgniteDuration": 100
+  },
+  "tools": {
+    "mandrakeScreamRadius": 5.0,
+    "mandrakeStunDuration": 3,
+    "foulSacDuration": 8,
+    "frostSacDuration": 8,
+    "purifyingSacDuration": 8,
+    "siphonRadius": 5.0,
+    "bleedingDamage": 0.5
+  },
+  "plants": {
+    "nautiliteDuration": 2400,
+    "nautiliteEffectRadius": 16,
+    "windsongDuration": 600,
+    "windsongEffectRadius": 6,
+    "astrylisDuration": 1200,
+    "astrylisBonemealInterval": 240,
+    "morphoraEffectRadius": 6,
+    "grimshadeDuration": 2400,
+    "grimshadeEffectRadius": 16
+  }
+}

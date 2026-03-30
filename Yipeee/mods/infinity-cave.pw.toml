@@ -1,0 +1,13 @@
+name = "Infinity Cave"
+filename = "infinity-cave-0.7-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DEq97NAA/versions/YtFd4tPQ/infinity-cave-0.7-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "4026b6899055b5c100d85b2dec406aaeaa5437b3ad56445152a17294c121f5d5819ee06d78f40f75c3326d9fadec464a8ea34a514634cb99d2c76c91828c6f8d"
+
+[update]
+[update.modrinth]
+mod-id = "DEq97NAA"
+version = "YtFd4tPQ"
