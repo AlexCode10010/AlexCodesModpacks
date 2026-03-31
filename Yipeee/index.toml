@@ -71,6 +71,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/ars-elixirum.pw.toml"
+hash = "252f788cbc4218c4bcafffe6306bf3c04c05ee7bada2348a345c83b3ac9ffc70"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "539d6d2230c16b543ef1070ec3d7d43ea599efabff084137bead5114d1546506"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "62e22ed67158a93b407e7d61c82c3e1dbcf38c9b9d4eb6138840342373df7eec"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "c91c0f8b42692dab1c598a364727e873650d70d644d9a24472ceb1646eee19aa"
 metafile = true
 
 [[files]]
