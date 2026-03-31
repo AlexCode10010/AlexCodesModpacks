@@ -520,11 +520,6 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "0123d2e89f227692b6a984a2ab605fe14c997431c2121efa8771e0146202ff61"
-metafile = true
-
-[[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "fd937701393ea1352839582bd6de654867e7dd2a331b030f26192cc5bb4e4007"
 metafile = true
@@ -595,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
-metafile = true
-
-[[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "422ac6f57aa205de4cc91caf2cfb231e3203dc6793ab43e7ceefdfd8f4038a02"
 metafile = true
 
 [[files]]
