@@ -500,6 +500,11 @@ hash = "b56b99f382b254d020cc5772f3636a565cc6503550ddac00e3d9cafad582cb63"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "962102799180bcf15b1839d59d30a3a338cce662cdd5b5c2efff370b79374377"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "ae2e2a69302639718b921d601a50787b54aee809cedf5341729dab0bfc85e495"
 metafile = true
@@ -639,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "7b5c7732cf10b658594068b18ab0ba39bc271c92a97ecbb594dc370a64877c73"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "bc005779ec5551d09026322c63ad42748f655ac80fea5d9a2bc3c6f5400c1f7b"
 metafile = true
 
 [[files]]
