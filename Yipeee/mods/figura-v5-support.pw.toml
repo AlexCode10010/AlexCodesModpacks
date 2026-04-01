@@ -1,0 +1,13 @@
+name = "Figura v5 support"
+filename = "figurav5addon-fabric-1.2.2+split1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dDOISgs4/versions/x98NASyc/figurav5addon-fabric-1.2.2%2Bsplit1.jar"
+hash-format = "sha512"
+hash = "699af8a21d81533a915a781a81c0c21df6198e1af92cbe07d84de8c04d020afa9535475ed5bf160c2af14e75c4fd06ea229b46b79a1ccf2f6373b37522afb938"
+
+[update]
+[update.modrinth]
+mod-id = "dDOISgs4"
+version = "x98NASyc"

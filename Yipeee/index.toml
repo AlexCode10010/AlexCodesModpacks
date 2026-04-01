@@ -296,8 +296,13 @@ hash = "3aa66d677f5f23ddc8528f0c3243a9cbded0e27ea4b3db089ec0c8deecfb5704"
 metafile = true
 
 [[files]]
+file = "mods/figura-v5-support.pw.toml"
+hash = "da86fc43cba857f0e148c8bf2765e131efa622393d76d62e5a0fc4c553f4ae14"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
-hash = "15037f6ad0f6ada296ca3eb9c0ac79f549ccfbe48077d1fdbf7f60bdcc8cb1bc"
+hash = "4ed0328f3789ce169f8a338f2889f47ebb3b2de44dc9a3fe5934ddf2f4141179"
 metafile = true
 
 [[files]]
