@@ -652,6 +652,11 @@ hash = "dc64fa7d848e9dbb47917b2512896e28f4b23a0d9a3585aab37fcc5393a272ee"
 metafile = true
 
 [[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "7b5c7732cf10b658594068b18ab0ba39bc271c92a97ecbb594dc370a64877c73"
+metafile = true
+
+[[files]]
 file = "mods/spell-power.pw.toml"
 hash = "bc005779ec5551d09026322c63ad42748f655ac80fea5d9a2bc3c6f5400c1f7b"
 metafile = true
@@ -688,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
