@@ -652,11 +652,6 @@ hash = "dc64fa7d848e9dbb47917b2512896e28f4b23a0d9a3585aab37fcc5393a272ee"
 metafile = true
 
 [[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "7b5c7732cf10b658594068b18ab0ba39bc271c92a97ecbb594dc370a64877c73"
-metafile = true
-
-[[files]]
 file = "mods/spell-power.pw.toml"
 hash = "bc005779ec5551d09026322c63ad42748f655ac80fea5d9a2bc3c6f5400c1f7b"
 metafile = true
